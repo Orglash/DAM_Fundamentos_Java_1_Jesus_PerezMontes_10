@@ -7,7 +7,7 @@ public class Main {
     public static void main(String[] args) {
         //Variable booleana para el bucle while de mas adelante
         boolean condicion=false;
-        double numero;
+        int numero;
         //Pedimos el numero y lo asignamos a la variable
         System.out.println("Introduzca un número entre 0 y 9.999:\n");
         Scanner sc=new Scanner(System.in);
