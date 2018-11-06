@@ -31,6 +31,7 @@ public class Main {
                 condicion=true;
             }
         }
-
+        //Cerramos el scanner.
+        sc.close();
     }
 }
